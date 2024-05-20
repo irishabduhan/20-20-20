@@ -1,2 +1,2 @@
 @echo off
-python C:\Users\risha\Desktop\twenty2020.py
+python C:\Users\risha\Desktop\main.py
