@@ -11,7 +11,7 @@ This is based on 20-20-20 rule that states that to protect our eyes from long sc
         screen_brightness_control,  psutil, tkinter, time, sys
 
 To run this application:
-1. Clone this to your computer.
+1. Clone this to your computer using https://github.com/irishabduhan/20-20-20.git
 2. Edit the path in the batch202020.bat file.
 3. Double click on batch202020.bat file.
 That's all you need to do.
