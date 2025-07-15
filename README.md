@@ -1,5 +1,5 @@
 # 20-20-20
-**Note:** To use this code, please email the author at i.rishab.duhan@gmail.com
+**Note:** To use this code, please notify the author through email at i.rishab.duhan@gmail.com
 
 **Motivatiion: ** 
 This is based on 20-20-20 rule that states that to protect our eyes from long screen time we must look 20 feet away after every 20 minute for 20 seconds.
